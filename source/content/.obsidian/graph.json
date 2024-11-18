@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Templates  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Faction/Players",
+      "color": {
+        "a": 1,
+        "rgb": 1234402
+      }
+    },
+    {
+      "query": "tag:#Faction/Citizens",
+      "color": {
+        "a": 1,
+        "rgb": 1730231
+      }
+    },
+    {
+      "query": "tag:#Faction/Criminal  ",
+      "color": {
+        "a": 1,
+        "rgb": 1453428
+      }
+    },
+    {
+      "query": "tag:#Faction/State",
+      "color": {
+        "a": 1,
+        "rgb": 1776981
+      }
+    },
+    {
+      "query": "tag:#Faction/Esoteric  ",
+      "color": {
+        "a": 1,
+        "rgb": 1906735
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 8182100
+      }
+    },
+    {
+      "query": "tag:#loose_end  ",
+      "color": {
+        "a": 1,
+        "rgb": 13838871
+      }
+    },
+    {
+      "query": "tag:#Event",
+      "color": {
+        "a": 1,
+        "rgb": 11019326
+      }
+    },
+    {
+      "query": "tag:#Session",
+      "color": {
+        "a": 1,
+        "rgb": 11544466
+      }
+    },
+    {
+      "query": "tag:#Score",
+      "color": {
+        "a": 1,
+        "rgb": 6371422
+      }
+    },
+    {
+      "query": "tag:#PC",
+      "color": {
+        "a": 1,
+        "rgb": 15388186
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 7696451
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.19979694057127,
+  "lineSizeMultiplier": 1.07243806687424,
+  "collapse-forces": false,
+  "centerStrength": 0.514687965344524,
+  "repelStrength": 12.8929199945851,
+  "linkStrength": 0.908894002978205,
+  "linkDistance": 186,
+  "scale": 0.5814039004878021,
+  "close": true
+}

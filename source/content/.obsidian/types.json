@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "Age": "number",
+    "Scores": "multitext",
+    "Connections": "multitext",
+    "Factions": "multitext",
+    "player_affected": "multitext",
+    "campaign": "multitext",
+    "played_on": "date"
+  }
+}

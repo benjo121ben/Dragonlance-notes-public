@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "d8655e36c9c2be55",
+    "id": "b826fe9c3703d62a",
     "type": "split",
     "children": [
       {
-        "id": "1fc3a69493ec04fb",
+        "id": "d66fe6d672d0eb6a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0dc8dfc767db7cc",
+            "id": "5e7ee27f2b310c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loren Soth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8834784b4eb06c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knights of Solamnia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea02bba90fa26696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Cataclysm.md",
+                "file": "Sessions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b81672face1609f",
+    "id": "1a2e73390938eec5",
     "type": "split",
     "children": [
       {
-        "id": "bbf21f20e2e45156",
+        "id": "6f730bea5b93db23",
         "type": "tabs",
         "children": [
           {
-            "id": "24e049151717a72c",
+            "id": "742691ce736cb53e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +43,7 @@
             }
           },
           {
-            "id": "b1f9ac94a2b5ba97",
+            "id": "5a98a055fce2e2b6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +58,7 @@
             }
           },
           {
-            "id": "7975d91d9c94256e",
+            "id": "384d8186c0180ee1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "1ea301fa6e299214",
+    "id": "3e70886ef4bca42c",
     "type": "split",
     "children": [
       {
-        "id": "7128a7ea7c6755c4",
+        "id": "e851fea1a73d5b89",
         "type": "tabs",
         "children": [
           {
-            "id": "679c2de747aeed04",
+            "id": "0f1c5fa602ba6eaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loren Soth.md",
+                "file": "Sessions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +97,19 @@
             }
           },
           {
-            "id": "409961aeef776dd0",
+            "id": "8818a8c45f28da66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loren Soth.md",
+                "file": "Sessions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4d92012f99407d19",
+            "id": "a50000a67c60c159",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +120,7 @@
             }
           },
           {
-            "id": "86f85c93a4f7109f",
+            "id": "76a7bdd80652fe0d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +132,12 @@
             }
           },
           {
-            "id": "6ce9b45998827997",
+            "id": "fc35e6b2260af606",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loren Soth.md"
+                "file": "Sessions/Untitled.md"
               }
             }
           }
@@ -186,27 +162,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b0dc8dfc767db7cc",
+  "active": "5e7ee27f2b310c79",
   "lastOpenFiles": [
-    "The Cataclysm.md",
-    "Huma Dragonbane.md",
-    "Ketra.md",
-    "Map.md",
-    "Images/ansalon-poster-map.webp",
-    "Knights of Solamnia.md",
-    "Loren Soth.md",
-    "Images/Knights of the Rose.png",
-    "Images/Knights of the Sword.png",
-    "Images/Knights of the Crown.png",
+    "Sessions/Session 03 The Smugglers.md",
+    "Sessions/Untitled.md",
+    "The smuggling Crew/The smuggling Crew.md",
+    "The smuggling Crew/Yeldrin, the Librarian.md",
+    "BitD established Lore/Characters/Lady Ankhayat.md",
+    "GM Work/Secrets to reveal to the players.md",
+    "GM Work/Important_NPCs/MES, the friend.md",
+    "GM Work/Scores/A dog hunt.md",
+    "GM Work/Scores/The golden eye heist on Stickler Street.md",
+    "GM Work/Scores/The Drunken Sailor.md",
+    "The smuggling Crew/Asbjorn Hansen, the forgotten man.md",
+    "GM Work/Events/The Crows foot sinkhole.md",
+    "GM Work/Events/The Eel Growth Scourge.md",
+    "GM Work/Events/The charcoal stinger.md",
+    "The smuggling Crew/Turemi, the Fanatic.md",
+    "GM Work/Factions/Vultures of the sea.md",
+    "GM Work/Important_NPCs/Quellyn, the Witch.md",
+    "BitD established Lore/Infrequently mentioned Established Factions.md",
+    "BitD established Lore/Established Factions by type.md",
+    "BitD established Lore/Established Factions by Tier.md",
+    "Tiny hands/Corvus Veil.md",
+    "GM Work/Important_NPCs/Rakash.md",
+    "GM Work/Important_NPCs/Researchers of Jikei Sei.md",
+    "GM Work/Scores/Untitled.md",
+    "BitD established Lore/Factions/Fog Hounds.md",
+    "BitD established Lore/Factions/Gray Cloaks.md",
+    "Images/Marlane Vale.png",
+    "Images/Marlane vale.png",
+    "Images/grafik.png",
+    "Images/The Queen in Rags.png",
+    "Images/Katja Hendersson/30e0e9fb96580ee1fa5f024bed477da2.jpg",
+    "Images/Katja Hendersson/5f46e859960ea9af5875d0268b997ff1.jpg",
+    "Images/Katja Hendersson",
+    "Images/New folder",
+    "Images/Septima Penderyn/Riza.Hawkeye.full.2437136.jpg",
+    "Images/Septima Penderyn/grafik.png",
+    "Images/Septima Penderyn/41917a8495dda4d5a24e5d7bccf3a1b4.jpg",
+    "Images/Septima Penderyn/5f46e859960ea9af5875d0268b997ff1.jpg",
+    "Images/Septima Penderyn",
+    "GM Work/Events",
+    "GM Work/Important_NPCs",
     "Images",
-    "plugins/tag-wrangler/styles.css",
-    "plugins/tag-wrangler/manifest.json",
-    "plugins/tag-wrangler/main.js",
-    "plugins/table-editor-obsidian/styles.css",
-    "plugins/table-editor-obsidian/manifest.json",
-    "plugins/table-editor-obsidian/main.js",
-    "plugins/table-editor-obsidian/data.json",
-    "plugins/obsidian-outliner/styles.css",
-    "plugins/obsidian-outliner/manifest.json"
+    "Images/Catho",
+    "GM Work",
+    "BitD established Lore/Districts",
+    "BitD established Lore.zip"
   ]
 }
