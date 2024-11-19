@@ -41,5 +41,7 @@ Ich durchsuche die ganze Bibliothek nach Büchern über Takhisis. Ihre Armeen un
 - Karten und Informationen über das [[Dargaart]] Gebirge 
 - historische Aufzeichnungen von Nobelhäusern + Liegenschaften
 - Abhandlungen über die Untoten
+
 Genaue Untersuchung des Buches "Abhandlungen der Untoten", Beschreibungen von solchen kreaturen, wie sie zurückkommen können.
+
 Wir bekämpfen ein Lumpenpack in einer Gasse, als wir auf dem Weg zum Duell mit [[Baccaris]] sind. Ich vermute, dass sie von [[Baccaris]] angeheuert wurden um uns abzuhalten oder auszuschalten.
