@@ -1,46 +1,24 @@
 {
   "main": {
-    "id": "d8655e36c9c2be55",
+    "id": "aa17e45a20abdefd",
     "type": "split",
     "children": [
       {
-        "id": "1fc3a69493ec04fb",
+        "id": "5c5af6a4603eb317",
         "type": "tabs",
         "children": [
           {
-            "id": "b0dc8dfc767db7cc",
+            "id": "08e485e120781f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loren Soth.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8834784b4eb06c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knights of Solamnia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea02bba90fa26696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Cataclysm.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Map"
             }
           }
         ]
@@ -49,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4b81672face1609f",
+    "id": "8fbc7d0c6f223368",
     "type": "split",
     "children": [
       {
-        "id": "bbf21f20e2e45156",
+        "id": "cd45855a28b36876",
         "type": "tabs",
         "children": [
           {
-            "id": "24e049151717a72c",
+            "id": "7ada792a3beb747d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "b1f9ac94a2b5ba97",
+            "id": "1feca620b484ec16",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,15 +58,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "7975d91d9c94256e",
+            "id": "9ee41f7d0e156421",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -96,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "1ea301fa6e299214",
+    "id": "f042e7d6453a9b8b",
     "type": "split",
     "children": [
       {
-        "id": "7128a7ea7c6755c4",
+        "id": "b36711af47a6c6de",
         "type": "tabs",
         "children": [
           {
-            "id": "679c2de747aeed04",
+            "id": "f86c896d2a96247b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loren Soth.md",
+                "file": "Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,34 +101,40 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 2"
             }
           },
           {
-            "id": "409961aeef776dd0",
+            "id": "65a103c0ea465d3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loren Soth.md",
+                "file": "Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 2"
             }
           },
           {
-            "id": "4d92012f99407d19",
+            "id": "06835fa0b915f7e6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "86f85c93a4f7109f",
+            "id": "c32bad11d9c67fbd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,17 +142,21 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "6ce9b45998827997",
+            "id": "a0e6145e628b1c13",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loren Soth.md"
-              }
+                "file": "Session 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 2"
             }
           }
         ]
@@ -180,33 +174,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-gallery:Gallery": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b0dc8dfc767db7cc",
+  "active": "08e485e120781f07",
   "lastOpenFiles": [
-    "The Cataclysm.md",
-    "Huma Dragonbane.md",
+    "NPCs/Huma Dragonbane.md",
+    "NPCs/Loren Soth.md",
+    "NPCs/Kansaldi.md",
+    "NPCs",
+    "NPCs/Belephaion.md",
     "Ketra.md",
+    "The Cataclysm.md",
     "Map.md",
-    "Images/ansalon-poster-map.webp",
+    "Kalamann.md",
+    "0_Index.md",
+    "NPCs/Baccaris.md",
+    "Sessions.md",
+    "NPCs/Darret.md",
+    "NPCs/Becklin Uth Viharin.md",
+    "Session 2.md",
     "Knights of Solamnia.md",
-    "Loren Soth.md",
-    "Images/Knights of the Rose.png",
     "Images/Knights of the Sword.png",
+    "Images/Knights of the Rose.png",
     "Images/Knights of the Crown.png",
-    "Images",
-    "plugins/tag-wrangler/styles.css",
-    "plugins/tag-wrangler/manifest.json",
-    "plugins/tag-wrangler/main.js",
-    "plugins/table-editor-obsidian/styles.css",
-    "plugins/table-editor-obsidian/manifest.json",
-    "plugins/table-editor-obsidian/main.js",
-    "plugins/table-editor-obsidian/data.json",
-    "plugins/obsidian-outliner/styles.css",
-    "plugins/obsidian-outliner/manifest.json"
+    "Images/ansalon-poster-map.webp"
   ]
 }

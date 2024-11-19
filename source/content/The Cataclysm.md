@@ -1,4 +1,8 @@
-#History 
+---
+tags:
+  - History
+---
+ 
 In the wake of the Third Dragon War, [[Knights of Solamnia|the Knighthood]] held the largest military presence on Ansalon, but the nation of [[Istar]] was the dominant power. Through trade and religion, Istar spread until it covered all of eastern Ansalon save for the forest of [[Silvanesti]]. [[Solamnia]] **came to depend on Istar’s trade and currency**, while Istar relied on the military might of the Knights of Solamnia in many situations. The two “good” nations became fast allies, and **Solamnia supported the rule of the Kingpriest** and the spread of Good throughout the world. This would prove to be the downfall of Solamnia and the Knighthood.
 The last **Kingpriest**, [[Beldinas Pilofiro]], **endeavored to command the gods** and force them to cleanse the world of Evil. Had he been successful, **he would have destroyed the Balance upon which Krynn was built**, so the **gods could not allow it to happen**. They sent numerous signs to warn the Kingpriest but, in his hubris, he refused to see the signs for what they were. **Paladine did hear the prayers of one of his few remaining true priestesses**, however, and he granted her request. **Her husband could prevent the Cataclysm while redeeming himself, though it would cost him his life**. Her husband was a Knight of the Rose named [[Loren Soth]].
 Soth, failed in his quest, giving in to [[Takhisis]]' deception. The gods hurled the mountain of fire upon Istar, destroying the heretical nation and breaking the world.
