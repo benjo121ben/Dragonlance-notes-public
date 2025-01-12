@@ -16,7 +16,19 @@
                 "file": "Loren Soth.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Loren Soth"
+            }
+          },
+          {
+            "id": "b8a789ad7a644b02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -28,7 +40,9 @@
                 "file": "Knights of Solamnia.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Knights of Solamnia"
             }
           },
           {
@@ -40,10 +54,13 @@
                 "file": "The Cataclysm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Cataclysm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -78,7 +97,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -117,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Loren Soth"
             }
           },
           {
@@ -129,7 +154,9 @@
                 "file": "Loren Soth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Loren Soth"
             }
           },
           {
@@ -140,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -152,7 +181,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -162,7 +193,9 @@
               "type": "outline",
               "state": {
                 "file": "Loren Soth.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Loren Soth"
             }
           }
         ]
@@ -182,19 +215,20 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-gallery:Gallery": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "b0dc8dfc767db7cc",
+  "active": "b8a789ad7a644b02",
   "lastOpenFiles": [
+    "Ketras Notebook.md",
+    "Loren Soth.md",
     "The Cataclysm.md",
     "Huma Dragonbane.md",
     "Ketra.md",
     "Map.md",
     "Images/ansalon-poster-map.webp",
     "Knights of Solamnia.md",
-    "Loren Soth.md",
     "Images/Knights of the Rose.png",
     "Images/Knights of the Sword.png",
     "Images/Knights of the Crown.png",
