@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Templates  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Faction/Players",
@@ -102,6 +102,6 @@
   "repelStrength": 12.8929199945851,
   "linkStrength": 0.908894002978205,
   "linkDistance": 186,
-  "scale": 1.0118962700420155,
+  "scale": 0.5361171364061408,
   "close": false
 }

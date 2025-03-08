@@ -1,14 +1,10 @@
 [
   "dataview",
   "find-unlinked-files",
-  "table-editor-obsidian",
   "obsidian-outliner",
   "obsidian-leaflet-plugin",
   "obsidian-banners",
   "obsidian-git",
-  "tag-wrangler",
-  "obsidian42-brat",
-  "datacore",
   "obsidian-icon-folder",
   "obsidian-gallery"
 ]

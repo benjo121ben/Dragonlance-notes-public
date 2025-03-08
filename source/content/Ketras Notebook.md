@@ -9,7 +9,7 @@ As for myself, I've received the offer to join the city of Kalamann in its defen
 I miss her hearty belly laughs every day.
 
 My companions have taken up the offer, some for financial reasons, but all in the hopes of keeping the people of Vogler safe. 
-I was surprised by the moxie shown by the Kender. For such a small stature, [[Vinny]] has truly impressed me with his willingness to face danger head on and  though I will not make the judgement whether it is bravery or naivety, he has presented quick decisionmaking and flexibility in combat. He is a great asset to work with, though his unrulyness has made him slightly more resistant to tactical suggestions. I should start to further demonstrate the value of pack tactics to him. 
+I was surprised by the moxie shown by the Kender. For such a small stature, [[Vinnie]] has truly impressed me with his willingness to face danger head on and  though I will not make the judgement whether it is bravery or naivety, he has presented quick decisionmaking and flexibility in combat. He is a great asset to work with, though his unrulyness has made him slightly more resistant to tactical suggestions. I should start to further demonstrate the value of pack tactics to him. 
 > "A warband leader is only as good as their soldiers trust in their decisions."
 > ~Caledia Legnares' 
 
